@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'todomvc',
     environment: environment,
-    rootURL: '/',
+    rootURL: '/implementations/ember-2.9.0-beta.1/dist/',
     locationType: 'none',
     EmberENV: {
       FEATURES: {
